@@ -24,7 +24,7 @@
                             @enderror
                         </div>
                         <div class="modal-footer">
-                            <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                            <a href="/kelas" class="btn btn-danger" role="button">Batal</a>
                             <button type="submit" class="btn btn-primary">Yes</button>
                         </div>
                 </div>

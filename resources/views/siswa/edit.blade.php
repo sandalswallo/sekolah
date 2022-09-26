@@ -81,6 +81,7 @@
                     </div>
                 </div>
                 <div class="modal-footer">
+                    <a href="/kelas" class="btn btn-danger" role="button">Batal</a>
                     <button class="btn btn-warning" type="submit"><i class="fa fa-save"></i>
                     Update</button>
                 </div>
